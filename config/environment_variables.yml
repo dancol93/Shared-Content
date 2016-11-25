@@ -1,0 +1,15 @@
+development:
+  DB_NAME: 'shared_content_dev'
+  DB_USERNAME: 'jorge_basilio'
+  DB_PASSWORD: 'jorge123'
+  DB_HOST: localhost
+test:
+  DB_NAME: 'shared_content_test'
+  DB_USERNAME: 'jorge_basilio'
+  DB_PASSWORD: 'jorge123'
+  DB_HOST: localhost
+production:
+  DB_NAME: 'shared_content_production'
+  DB_USERNAME: 'jorge_basilio'
+  DB_PASSWORD: 'jorge123'
+  DB_HOST: localhost
